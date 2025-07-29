@@ -1,46 +1,46 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
+      "image": "/images/aloe.jpg",
+      "price": 15.99,
+      "inStock": true
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "image": "/images/zz-plant.jpg",
+      "price": 25.98,
+      "inStock": true
     },
     {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
-    },
-    {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
+      "image": "/images/pothos.jpg",
+      "price": 12.11,
+      "inStock": false
     },
     {
-      "id": 5,
-      "name": "Jade",
-      "image": "./images/jade.jpg",
-      "price": 10.37
+      "id": "9bc0",
+      "name": "My Music App",
+      "image": "hhk",
+      "price": 43,
+      "inStock": true
     },
     {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
+      "id": "484f",
+      "name": "My Music App",
+      "image": "hhk",
+      "price": 77,
+      "inStock": true
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "id": "c341",
+      "name": "5444",
+      "image": "https://th.bing.com/th/id/OIP.PUuevUFoxDO5lRMcQBdQnAHaE8?w=287&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 4332,
+      "inStock": true
     }
   ]
 }
